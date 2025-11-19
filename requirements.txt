@@ -1,0 +1,11 @@
+# **requirements.txt**
+
+# **List your Python project dependencies here.**
+
+# **You can pin specific versions or use ranges.**
+
+# **Example dependencies:**
+
+requests\>=2.31.0  
+numpy  
+pandas
